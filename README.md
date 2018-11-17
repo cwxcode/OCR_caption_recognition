@@ -39,13 +39,13 @@ ren_1.jpg
 结果
 ==========
 demo1:  
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1.jpg)
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1_det.jpg)
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1_rec.jpg)
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1_res.jpg)
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1.jpg)  
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1_det.jpg)  
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1_rec.jpg)  
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1_res.jpg)  
 
 demo2:  
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2.jpg)
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2_det.jpg)
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2_rec.jpg)
-![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2_res.jpg)
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2.jpg)  
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2_det.jpg)  
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2_rec.jpg)  
+![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2_res.jpg)  
