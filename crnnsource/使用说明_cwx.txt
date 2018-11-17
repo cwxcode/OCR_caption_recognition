@@ -1,0 +1,19 @@
+CRNN论文的pytorch版本代码  环境：pytorch0.4
+===========================================================================
+训练命令：
+python crnn_main.py --trainroot ./lmdb_train/ --valroot ./lmdb_val/ --workers 4 --batchSize 128 --lr 0.000000001
+
+在原模型上继续训练命令：
+python crnn_main.py --trainroot ./lmdb_train/ --valroot ./lmdb_val/ --workers 0 --batchSize 256 --lr 0.0000000001 --crnn ./data/netCRNN_3_700.pth
+
+使用GPU的训练命令（只能使用1个GPU，2个及以上会出错）：
+python crnn_main.py --trainroot ./lmdb_train/ --valroot ./lmdb_val/ --workers 2 --batchSize 64 --lr 0.0001 --niter 10000 --cuda --ngpu 1
+
+测试：
+修改demo.py中的模型路径model_path和测试图片路径img_path，模型.pth文件和测试图片都存放在/data文件夹下
+运行命令：
+python demo.py
+
+keys.py为读取字符
+
+crnn_main.py为训练文件，修改niter改变迭代次数
