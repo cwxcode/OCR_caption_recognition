@@ -1,6 +1,6 @@
 # OCR_caption_recognition
 project: OCR   author: cwx  
-==========
+==========  
 功能  
 ==========  
 视频字幕识别  
@@ -15,9 +15,9 @@ CUDNN7.0
 python3.5 或者 3.6
 安装lmdb: pip install lmdb
 
-==========
-首次使用需要编译
-==========
+==========  
+首次使用需要编译  
+==========  
 (a) cd ctpnsource/lib/utils and execute: python setup.py build
 (b) copy the .so file from the "build/XXX" directory to the ctpnsource/lib/utils
 
