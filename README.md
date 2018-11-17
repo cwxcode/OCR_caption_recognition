@@ -32,8 +32,8 @@ ren_1.jpg
 ========================================
 结果
 ========================================
-demo1:
+demo1:  
 ![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_1.jpg)
 
-demo2:
+demo2:  
 ![image](https://github.com/cwxcode/OCR_caption_recognition/raw/master/image/ren_2.jpg)
